@@ -1,0 +1,6 @@
+# This ID links this local project to your project on Scrapy Cloud.
+project: 819191  
+
+# This tells Scrapy Cloud which version of the environment to use.
+stacks:
+  default: scrapy:2.11
